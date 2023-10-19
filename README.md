@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋</h1>
-<h3 align="center">A passionate python programmer & full-stack developer from Bangladesh</h3>
+<h3 align="center">A passionate python programmer & full-stack web developer from Bangladesh</h3>
 
 - 🌱 I’m currently learning **AWS cloud development**
 
