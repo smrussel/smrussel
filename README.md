@@ -2,10 +2,10 @@
 
 # 🧠 S M Russel
 
-### AI Engineer • Model Training • RAG & Agentic Systems • AI SaaS
+### AI Engineer • Full-Stack Developer • Scalable Systems & Deployment
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1200&color=A476FF&center=true&vCenter=true&width=580&lines=AI+Engineer+%26+Machine+Learning+Specialist;Model+Training+%26+Fine-Tuning+(PyTorch%2C+HuggingFace);Enterprise+RAG+%26+Vector+Search+Architectures;Autonomous+AI+Agents+%26+Multi-Agent+Workflows;Production+AI+SaaS+Apps+%26+Intelligent+Automation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1200&color=A476FF&center=true&vCenter=true&width=620&lines=AI+Engineer+%26+Machine+Learning+Specialist;Model+Training+%26+Production+RAG+Architectures;Scalable+Backend+%26+Full-Stack+Apps+(FastAPI%2C+Next.js);Autonomous+AI+Agents+%26+Intelligent+Automation;Containerized+%26+Cloud+Deployments+(Docker%2C+Nginx%2C+CI%2FCD)" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -25,14 +25,14 @@
 
 ## 📌 About Me
 
-Hi! I'm **S M Russel**, an **AI Engineer** based in Dhaka, Bangladesh. I specialize in engineering end-to-end intelligent systems—spanning **custom model training & fine-tuning**, production-ready **RAG architectures**, **autonomous AI agents**, **intelligent workflow automation**, and full-stack **AI SaaS applications**.
+Hi! I'm **S M Russel**, an **AI Engineer and Full-Stack Systems Architect** based in Dhaka, Bangladesh. I specialize in building complete, production-grade intelligent platforms—spanning **custom model training**, **enterprise RAG architectures**, **autonomous AI agents**, **high-performance backend development**, and **scalable cloud deployments**.
 
 - 🧠 **Model Training & Fine-Tuning**: Training, evaluating, and fine-tuning LLMs and ML models using **PyTorch**, **Hugging Face**, **LoRA / QLoRA**, and classical ML algorithms (scikit-learn).
-- 🔍 **RAG & Vector Knowledge Systems**: Architecting enterprise-grade Retrieval-Augmented Generation with hybrid vector/keyword search, semantic reranking, and vector databases (**Pinecone**, **ChromaDB**, **pgvector**).
-- 🤖 **AI Agents & Multi-Agent Workflows**: Designing autonomous agents and real-time voice agents using **LangChain**, **LangGraph**, **Flowise**, **Pipecat**, and **AutoGen**.
-- ⚡ **AI Automation & Intelligent Pipelines**: Building resilient process automations, scraping engines, and data workflows with **n8n**, **Playwright**, and Python.
-- 🚀 **Full-Stack AI SaaS Engineering**: Developing complete AI-powered SaaS platforms using high-throughput backends (**FastAPI**, **Django REST**, **Flask**, **Redis**) and sleek frontends (**Next.js**, **React**, **Tailwind CSS**).
-- 💼 Open for **AI Engineering roles**, **Model Training / RAG contracts**, and **AI product consulting**.
+- 🔍 **RAG & Vector Knowledge Systems**: Architecting production Retrieval-Augmented Generation systems with advanced chunking, hybrid keyword/vector search, semantic reranking, and vector databases (**Pinecone**, **ChromaDB**, **pgvector**).
+- 🤖 **AI Agents & Workflow Automations**: Designing autonomous multi-agent pipelines and real-time voice agents using **LangChain**, **LangGraph**, **Flowise**, **Pipecat**, and **n8n**.
+- 🛠️ **Backend & Full-Stack Development**: Engineering resilient, high-throughput microservices and full-stack web applications with **FastAPI**, **Django REST/Ninja**, **Flask**, **Node.js**, **Next.js**, and **React**.
+- 🚀 **Scalable Deployment & DevOps**: Deploying and managing scalable, fault-tolerant production applications using **Docker**, **Linux VPS**, **Nginx reverse proxies**, **distributed Redis/Celery task queues**, and **GitHub Actions CI/CD pipelines**.
+- 💼 Open for **AI Engineering roles**, **Full-Stack/Backend contracts**, and **scalable cloud architecture consulting**.
 
 ---
 
@@ -52,7 +52,7 @@ Hi! I'm **S M Russel**, an **AI Engineer** based in Dhaka, Bangladesh. I special
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-000000?style=for-the-badge&logo=chroma&logoColor=white)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![RAG Architecture](https://img.shields.io/badge/Hybrid_RAG-2B5B84?style=for-the-badge&logo=probot&logoColor=white)
+![Hybrid RAG](https://img.shields.io/badge/Hybrid_RAG-2B5B84?style=for-the-badge&logo=probot&logoColor=white)
 ![Supabase pgvector](https://img.shields.io/badge/pgvector-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### 🤖 AI Agents & LLM Systems
@@ -62,39 +62,52 @@ Hi! I'm **S M Russel**, an **AI Engineer** based in Dhaka, Bangladesh. I special
 ![Flowise](https://img.shields.io/badge/Flowise-00D4B2?style=for-the-badge&logo=flowise&logoColor=white)
 ![Pipecat](https://img.shields.io/badge/Pipecat_Voice_AI-6A0DAD?style=for-the-badge)
 ![AutoGen](https://img.shields.io/badge/AutoGen-1C3C3C?style=for-the-badge)
-
-### ⚡ AI Automation & Intelligent Pipelines
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-%23a9cc54.svg?style=for-the-badge&logo=celery&logoColor=ddf4a4)
-![Redis](https://img.shields.io/badge/Redis_Queues-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-### 🚀 AI SaaS Backend & APIs
+### 🛠️ Backend, APIs & Distributed Queues
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery_Workers-%23a9cc54.svg?style=for-the-badge&logo=celery&logoColor=ddf4a4)
+![Redis Queues](https://img.shields.io/badge/Redis_Queues-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
-### ⚛️ Frontend for AI Applications
+### ⚛️ Frontend & Full-Stack Web Development
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
 ![HTMX](https://img.shields.io/badge/HTMX-3366CC?style=for-the-badge&logo=htmx&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🗄️ Databases & Cloud Infrastructure
+### 🚀 Scalable Deployment, DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux_VPS-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx_Proxy-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions_CI%2FCD-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
+### 🗄️ Databases & Storage
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
@@ -113,9 +126,9 @@ Hi! I'm **S M Russel**, an **AI Engineer** based in Dhaka, Bangladesh. I special
 
 ## 🤝 Let's Connect & Collaborate!
 
-I'm always excited to collaborate on groundbreaking AI initiatives, LLM fine-tuning, enterprise RAG systems, autonomous agents, and scalable AI SaaS engineering.
+I'm always excited to collaborate on groundbreaking AI initiatives, full-stack systems, custom LLM fine-tuning, production RAG, and scalable cloud deployments.
 
-- 💬 **Let's talk about**: Model Training & Fine-Tuning, Hybrid RAG, Autonomous AI Agents, Workflow Automation, or AI SaaS Development.
+- 💬 **Let's talk about**: Model Training, Enterprise RAG, Full-Stack Architecture, High-Throughput APIs, or Scalable Deployments.
 - 🌐 **Portfolio**: [smrussel.dev](https://smrussel.dev)
 - 📫 **Email**: [smrusselofficial@gmail.com](mailto:smrusselofficial@gmail.com)
 - 💼 **LinkedIn**: [linkedin.com/in/smrussel](https://www.linkedin.com/in/smrussel/)
