@@ -2,10 +2,11 @@
 
 # 🧠 S M Russel
 
-### AI Engineer • Agentic Systems • Model Fine-Tuning • Full-Stack AI SaaS
+### AI Engineer & Systems Architect • Founder @ Assembly Minds
+#### Autonomous Multi-Agent Frameworks • Real-Time Voice AI • Enterprise RAG • Model Fine-Tuning
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1200&color=A476FF&center=true&vCenter=true&width=620&lines=AI+Engineer+%26+Machine+Learning+Specialist;Agentic+Workflows+(LangGraph%2C+CrewAI%2C+AutoGen);Model+Fine-Tuning+(LoRA%2C+HuggingFace%2C+PyTorch);Production+RAG+%26+Vector+Knowledge+Systems;Full-Stack+AI+Apps+%26+Scalable+Deployments" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1200&color=A476FF&center=true&vCenter=true&width=620&lines=AI+Engineer+%26+Systems+Architect;Autonomous+Agents+(LangGraph%2C+CrewAI);Real-Time+Voice+AI+(Pipecat%2C+Twilio);Model+Fine-Tuning+(LoRA%2C+vLLM%2C+PyTorch);Production+Hybrid+RAG+(pgvector%2C+Qdrant);Full-Stack+AI+SaaS+%26+n8n+Automations" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -25,16 +26,28 @@
 
 ## 📌 About Me
 
-Hi! I'm **S M Russel**, an **AI Engineer & Systems Architect** based in Dhaka, Bangladesh. I specialize in building next-generation intelligent applications—spanning **autonomous multi-agent frameworks**, **custom LLM fine-tuning**, **production RAG pipelines**, **AI workflow automations**, and **scalable full-stack AI SaaS platforms**.
+Hi, I'm **S M Russel**, an **AI Engineer & Systems Architect** and Founder at **Assembly Minds**, based in Dhaka, Bangladesh. I specialize in designing and deploying production-grade intelligent systems: autonomous multi-agent architectures, sub-second real-time voice agents, custom LLM fine-tuning, production RAG pipelines, and full-stack AI SaaS platforms.
 
-- 🤖 **Agentic AI & Multi-Agent Frameworks**: Architecting stateful multi-agent systems, human-in-the-loop flows, and autonomous teams using **LangGraph**, **CrewAI**, **AutoGen**, and **Flowise**, alongside real-time voice AI via **Pipecat** and telephony.
-- 🧠 **Model Training & Fine-Tuning**: Fine-tuning open-source LLMs (Llama 3, DeepSeek, Mistral) with **LoRA / QLoRA**, **PEFT**, **PyTorch**, and **Hugging Face**, with local inference serving via **Ollama** and **vLLM**.
-- 🔍 **Enterprise RAG & Vector Systems**: Building hybrid keyword/semantic search engines with advanced chunking, reranking, and vector databases (**Pinecone**, **ChromaDB**, **Qdrant**, **pgvector**).
-- 📊 **LLM Observability & Evaluation**: Integrating tracing, prompt management, and automated evaluation using **LangSmith** and **Langfuse**.
+- 🤖 **Agentic AI & Multi-Agent Frameworks**: Architecting stateful multi-agent systems, human-in-the-loop workflows, and autonomous teams using **LangGraph**, **CrewAI**, and **AutoGen**.
+- 🎙️ **Real-Time Voice AI**: Engineering sub-700ms voice telephone agents with natural turn-taking, live CRM booking, and telephony fallbacks using **Pipecat**, **Twilio**, **Daily.co**, and **FastAPI**.
+- 🧠 **Model Training, Fine-Tuning & Serving**: Fine-tuning open-source LLMs (Llama 3, DeepSeek, Mistral) with **LoRA / QLoRA**, **PEFT**, **PyTorch**, and **Hugging Face**, with high-throughput local serving via **vLLM** and **Ollama**.
+- 🔍 **Enterprise RAG & Vector Systems**: Building hybrid keyword/semantic search engines with contextual chunking, reciprocal rank fusion, and vector stores (**pgvector**, **Qdrant**, **Pinecone**).
+- 📊 **LLM Observability & Evaluation**: Integrating deep tracing, prompt regression suites, and automated evaluation using **Langfuse** and **LangSmith**.
 - ⚡ **AI Automation & Intelligent Extraction**: Designing autonomous business workflows, lead scrapers, and data pipelines with **n8n**, **Crawl4AI**, **Playwright**, and Python.
-- 🛠️ **Backend & Full-Stack AI SaaS**: Engineering high-performance backends and web applications with **FastAPI**, **Django REST/Ninja**, **Flask**, **Node.js**, **Next.js**, and **React**.
+- 🛠️ **Backend & Full-Stack AI SaaS**: Engineering high-performance backends and web applications with **FastAPI**, **Django REST/Ninja**, **Next.js**, and **React**.
 - 🚀 **Scalable Deployment & DevOps**: Deploying resilient microservices using **Docker**, **Linux VPS**, **Nginx reverse proxies**, **distributed Redis/Celery queues**, and **GitHub Actions CI/CD pipelines**.
-- 💼 Open for **AI Engineering roles**, **Agentic AI / RAG contracts**, and **AI product consulting**.
+- 💼 Open for **AI Engineering contracts**, **Multi-Agent / RAG architectures**, and **Fractional AI advisory**.
+
+---
+
+## 🌟 Featured Architectures & Production Systems
+
+| System | Core Architecture | Key Capabilities |
+| :--- | :--- | :--- |
+| **🎙️ Real-Time Voice AI Agent** | `Pipecat` • `Twilio WebRTC` • `FastAPI` • `Daily.co` | Sub-700ms ultra-low latency voice conversational agent with natural turn-taking, real-time CRM updates, and live human transfer fallbacks. |
+| **🤖 Autonomous Multi-Agent Pipeline** | `LangGraph` • `CrewAI` • `Redis` • `PostgreSQL` | Multi-agent research and operational engine executing complex web crawls, contextual synthesis, and structured reporting with human-in-the-loop validation. |
+| **🔍 Enterprise Hybrid RAG Engine** | `pgvector` • `FastAPI` • `Qdrant` • `Langfuse` | Hybrid dense/sparse vector retrieval with cross-encoder rerankers, semantic cache, and full LLM evaluation tracing. |
+| **⚡ Self-Hosted Enterprise Automation** | `n8n` • `Docker` • `PostgreSQL` • `Crawl4AI` | Robust headless lead scraping and multi-channel marketing automation running 24/7 on private Linux VPS clusters. |
 
 ---
 
@@ -135,7 +148,7 @@ Hi! I'm **S M Russel**, an **AI Engineer & Systems Architect** based in Dhaka, B
 
 I'm always excited to collaborate on groundbreaking AI initiatives, autonomous agent architectures (LangGraph / CrewAI), enterprise RAG systems, and full-stack AI SaaS development.
 
-- 💬 **Let's talk about**: LangGraph & CrewAI Agents, LLM Fine-Tuning, Hybrid RAG, Automation Pipelines, or Full-Stack AI SaaS.
+- 💬 **Let's talk about**: LangGraph & CrewAI Agents, Real-Time Voice AI (Pipecat), LLM Fine-Tuning, Hybrid RAG, Automation Pipelines, or Full-Stack AI SaaS.
 - 🌐 **Portfolio**: [smrussel.dev](https://smrussel.dev)
 - 📫 **Email**: [smrusselofficial@gmail.com](mailto:smrusselofficial@gmail.com)
 - 💼 **LinkedIn**: [linkedin.com/in/smrussel](https://www.linkedin.com/in/smrussel/)
